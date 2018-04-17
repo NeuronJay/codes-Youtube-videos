@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/* Selection Sort runs on the principle of comparing the numbers of the array one by one and swapping the minimum number avaliable */
 int main()
 {
 	int a[] = {5 , 4 ,3 ,2 ,6,8 ,10,1};
